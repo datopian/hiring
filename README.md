@@ -7,7 +7,7 @@ Passionate about data? If you want to be part of building the next generation of
 Engineering positions:
 
 - Frontend engineer with design skills - [/engineering/frontend](/engineering/frontend.md)
-- DevOps engineer to join our SRE team - coming soon
+- Site Reliability Engineer - [/engineering/sre](/engineering/sre.md)
 
 Other positions:
 
