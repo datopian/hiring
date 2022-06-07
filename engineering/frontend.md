@@ -20,7 +20,7 @@ Most of the work we do at Datopian is in Python and JS, and some experience impl
 
 ## Expectations
 
-- Experience: junior to medium level frontend engineer with design skills.
+- Experience: junior to mid level frontend engineer with design skills.
 - Communication and soft skills: needs to be proficient in written and spoken English, confident during presentations and interactions.
 - Must know:
   - Git - we use git for everything we do from coding to content writing so you need to use Git via command line and commit your work to GitHub and/or GitLab on daily basis.
