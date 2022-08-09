@@ -41,7 +41,7 @@ Most of the work we do at Datopian is in Python and JS, and some experience impl
 
 ## How to apply
 
-Please, send your resume and a short introduction letter to: jobs@datopian.com.
+Please, go to [how to apply](/engineering/how-to-apply.md) page for details.
 
 ## Useful links
 
