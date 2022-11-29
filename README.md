@@ -2,7 +2,7 @@ Welcome to our hiring repository where we post job descriptions for various posi
 
 ## We're hiring!
 
-Passionate about data? If you want to be part of building the next generation of open source tooling for open data management systems, we’d love to hear from you!
+Passionate about data? If you want to be part of building the next generation of open source tooling for open data management systems, we’d love to hear from you! Please make sure you incluede and up to date and complete CV with your application
 
 Engineering positions:
 
