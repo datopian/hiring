@@ -11,6 +11,8 @@ Engineering positions:
 
 Other positions:
 
-- Project Manager - coming soon
+- Delivery Team:
+> - Product Owner
+> - Scrum Master
 - Operations Manager - coming soon
 - Finance Manager - coming soon
