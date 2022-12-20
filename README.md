@@ -6,15 +6,15 @@ Passionate about data? If you want to be part of building the next generation of
 
 Engineering positions:
 
-- Data Engineer
-
+- Python Developer - [/engineering/python](/engineering/python-developer.md)
+- Data Engineer - coming soon
 - Frontend engineer with design skills - [/engineering/frontend](/engineering/frontend.md)
 - Site Reliability Engineer - [/engineering/sre](/engineering/sre.md)
 
 Other positions:
 
 - Delivery Team:
-> - Product Owner
-> - Scrum Master
+  - Product Owner - coming soon
+  - Scrum Master - coming soon
 - Operations Manager - coming soon
 - Finance Manager - coming soon
