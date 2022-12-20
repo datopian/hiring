@@ -14,7 +14,7 @@ We operate virtually, so you will have the freedom to work from wherever you wan
 
 ## About this role
 
-We are looking for a highly-motivated and skilled individual to join us as a **Python Developer** to work on [CKAN project](https://ckan.org/) which is an open-source Python software currently maintained on [GitHub](/ckan/ckan). A new joiner will be working on new features towards major release of CKAN version 3.
+We are looking for a highly-motivated and skilled individual to join us as a **Python Developer** to work on [CKAN project](https://ckan.org/) which is an open-source Python software currently maintained on [GitHub](https://github.com/ckan/ckan). A new joiner will be working on new features towards major release of CKAN version 3.
 
 ## Expectations
 
