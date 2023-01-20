@@ -14,7 +14,7 @@ Engineering positions:
 Other positions:
 
 - Delivery Team:
-  - Product Owner - coming soon
+  - Product Owner - [/delivery-management/product-owner](delivery-management/product-owner.md)
   - Scrum Master - coming soon
 - Operations Manager - coming soon
 - Finance Manager - coming soon
