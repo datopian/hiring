@@ -15,6 +15,6 @@ Other positions:
 
 - Delivery Team:
   - Product Owner - [/delivery-management/product-owner](delivery-management/product-owner.md)
-  - Scrum Master - coming soon
+  - Scrum Master - [/delivery-management/scrum-master](delivery-management/scrum-master.md)
 - Operations Manager - coming soon
 - Finance Manager - coming soon
