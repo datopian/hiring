@@ -33,11 +33,9 @@ Finally, we offer an intentional work environment that will support you to devel
 * It is preferred but not necessary that the candidate has a technical background as a developer maybe being a technical project manager or product owner/tech lead before
 * It is preferred but not necessary that the candidate has worked in the data sector before
 
-Remuneration: $2 - 3.5k
-
 ## About the engagement
 * **Start date**: As soon as feasible
-* **Rate**: Commensurate with ability and experience
+* **Rate**: Competitive and commensurate with responsibilities and abilities.
 * **Location**: Datopian is a remote-first workplace; experience in remote working is desirable (but not essential). We are currently looking for people in the European /East Coast US time zone (we’re happy for people to work elsewhere provided they are available for meetings during European / East Coast usual working hours).
 
 ## How to apply
