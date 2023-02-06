@@ -34,7 +34,7 @@ Finally, we offer an intentional work environment that will support you to devel
 
 ## About the engagement
 * **Start date**: As soon as feasible
-* **Rate**: Commensurate with ability and experience
+* **Rate**: Competitive and commensurate with responsibilities and abilities.
 * **Location**: Datopian is a remote-first workplace; experience in remote working is desirable (but not essential). We are currently looking for people in European  / East Coast US time zone (we’re happy for people to work elsewhere provided they are available for meetings during European / East Coast usual working hours).
 
 ## How to apply
