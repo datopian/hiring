@@ -6,4 +6,4 @@ If you are reading this page, you might be interested in a tech position at the 
 
 https://github.com/datopian/portaljs/discussions/820
 
-Once you have completed your contribution and you would like to apply for a position at Datopian, please, send us an email with details to jobs@datopian.com.
+Once you have completed your contribution and you would like to apply for a position at Datopian, please, send us an email to jobs@datopian.com that contains the following: a link to what you have chosen to prepare, a short loom video to it, and your CV.
