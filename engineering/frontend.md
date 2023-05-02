@@ -1,4 +1,4 @@
-# Frontend Engineer with Design Skills
+# JavaScript Engineer
 
 Passionate about data? If you want to be part of building the next generation of open source tooling for open data management systems, we’d love to hear from you!
  
@@ -12,7 +12,7 @@ A little about us…
 
 We operate virtually, so you will have the freedom to work from wherever you want (meeting scheduling permitting).
 
-We are looking for a highly-motivated and skilled individual to work with us as **a Frontend Engineer and Designer**. Datopian implements a range of data management solutions for government and the enterprise using open-source technologies, including many that our team creates and maintains in-house.
+We are looking for a highly-motivated and skilled individual to work with us as **a JavaScript Engineer**. Datopian implements a range of data management solutions for government and the enterprise using open-source technologies, including many that our team creates and maintains in-house.
 
 Engineers at Datopian work as part of a delivery team under technical supervision of a Senior Developer. They communicate about their work with technical and non-technical stakeholders on their team, and therefore need to be proficient in spoken and written English. Our Developers scope and define work with our Senior Developers – depending on level of experience – and are responsible for implementation of a range of data management solutions.
 
@@ -20,16 +20,16 @@ Most of the work we do at Datopian is in Python and JS, and some experience impl
 
 ## Expectations
 
-- Experience: junior to mid level frontend engineer with design skills.
+- Experience: junior to mid level JavaScript engineer.
 - Communication and soft skills: needs to be proficient in written and spoken English, confident during presentations and interactions.
 - Must know:
-  - Git - we use git for everything we do from coding to content writing so you need to use Git via command line and commit your work to GitHub and/or GitLab on daily basis.
-  - JavaScript - pure JS is great but we also use a lot of Next.js nowadays.
-  - CSS - in particular TailwindCSS and/or Bootstrap would be amazing.
+  - Git - we use git for everything we do from coding to content writing so you need to use Git via command line and commit your work to GitHub and/or GitLab on a daily basis.
+  - JavaScript - pure JS is great but we also use a lot of Next.js nowadays. You can have a look at our PortalJS framework here - https://github.com/datopian/portaljs
+- Bonus if you know any of these:
+  - CSS - in particular TailwindCSS would be amazing.
   - Design and prototyping skills - we would require you to work on Figma to create prototypes, mockups etc.
-- Bonus if you know:
-  - Anything else around JS, e.g., ExpressJS, Apollo (GraphQL).
-  - Any backend skills are always great, e.g., Node.JS, Python, Docker etc.
+  - Any backend skills are always great, e.g., we use Python.
+  - Familiarity with containerization using Docker.
 
 ## About the engagement
 
