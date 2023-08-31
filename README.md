@@ -7,7 +7,7 @@ Passionate about data? If you want to be part of building the next generation of
 Engineering positions:
 
 - Python Developer (open-source contributor) - [/engineering/python](/engineering/python-developer.md)
-- Data Engineer - coming soon
+- Data Engineer - [/engineering/data-engineer.md](/engineering/data-engineer.md)
 - Frontend engineer with design skills - [/engineering/frontend](/engineering/frontend.md)
 - Site Reliability Engineer - [/engineering/sre](/engineering/sre.md)
 
