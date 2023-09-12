@@ -41,7 +41,24 @@ Most of the work we do at Datopian is in Python and JS, and some experience impl
 
 ## How to apply
 
-Please, go to [how to apply](/engineering/how-to-apply.md) page for details.
+Below we have a discussion where we need developers to test our framework:
+
+datopian/portaljs#820
+
+It would be great if you could:
+
+- Prepare a dataset of your choice. E.g., it should be something meaningful and interesting to you and your audience. If you want, you can have more than 1 dataset.
+- Based on our framework, build a minimal data portal that has catalog page with available datasets and a dataset page where you can showcase the dataset you have prepared.
+- Make sure you have table preview and some simple visualization to display insight.
+- Deploy your work somewhere, eg, can be Vercel, Cloudflare, Netlify etc. Totally up to you!
+- Once ready, go to https://loom.com/ and record a quick loom about what you have done.
+
+Once you have completed your contribution and you would like to apply for a position at Datopian, please, send us an email to jobs@datopian.com that contains the following:
+
+- A link to Git repository that contains the assignment.
+- A link to your deployment.
+- A link to your loom video.
+- Your CV.
 
 ## Useful links
 
