@@ -42,7 +42,11 @@ We are looking for a highly-motivated and skilled individual to join us as a **D
 
 ## How to apply
 
-To assess your skills, we require you to complete the task in this issue: https://github.com/datasets/population-city/issues/6
+To assess your skills, we require you to take one of the issues in our board where we curate core and open datasets:
+
+https://github.com/orgs/datasets/projects/1
+
+You would need to look at "Ready to go" pipeline and find an issue that sounds good for you. Before you get started please make sure you ping @anuveyatsu in the issue thread so that we can assign the issue to you and avoid duplicate work from other candidates. Please, note that you may take issues from other pipelines (e.g., Evaluating or Preparing and Packaging), especially, if you see that it was leftover by somebody (e.g., no progress/updates for last >2 months).
 
 Once you have completed your contribution and you would like to apply for a position at Datopian, please, send us an email with details to jobs@datopian.com with any relevant information (CV, link to your project etc).
 
