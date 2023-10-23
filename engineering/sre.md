@@ -43,7 +43,9 @@ Most of the work we do at Datopian is in Python and JS, and some experience impl
 
 ## How to apply
 
-Please, go to [how to apply](/engineering/how-to-apply.md) page for details.
+To assess your skills we require you to submit an assignment:
+
+Please describe how would you deploy CKAN based open data portal (https://github.com/ckan/ckan) in a public cloud environment. You can choose 1 or 2 options out of GCP, Azure and AWS. If you feel necessary please include any supporting materials such as diagrams or video recordings.
 
 ## Useful links
 
