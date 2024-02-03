@@ -1,4 +1,4 @@
-# Python Developer (open-source contributor)
+# Python Developer
 
 Passionate about data? If you want to be part of building the next generation of open source tooling for open data management systems, we’d love to hear from you!
  
