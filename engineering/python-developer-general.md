@@ -51,7 +51,12 @@ Your responsibilities would include:
 
 ## How to apply
 
-Please, send us an email with your details to jobs@datopian.com. Indicate the role you are applying to and explain why do you think you might be a good fit.
+To assess your application, we would like you to complete the following assignment:
+
+1. Go through the getting started guide here - https://datahub.io/docs/dms/ckan/getting-started
+2. We expect you to complete [play around](https://datahub.io/docs/dms/ckan/play-around), [installing extensions](https://datahub.io/docs/dms/ckan/install-extension) and [creating your own extension](https://datahub.io/docs/dms/ckan/create-extension) guides.
+3. Once completed, create a short (2-3 minutes) Loom video about your new CKAN extension explaining what you have created.
+4. Please, send us an email with your details to jobs@datopian.com and the link to your Loom video should be shared with your details. Indicate the role you are applying to and explain why do you think you might be a good fit.
 
 ## Useful links
 
