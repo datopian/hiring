@@ -24,10 +24,14 @@ Most of the work we do at Datopian is in Python and JS, and some experience impl
 - Communication and soft skills: needs to be proficient in written and spoken English, confident during presentations and interactions.
 - Must know:
   - Git - we use git for everything we do from coding to content writing so you need to use Git via command line and commit your work to GitHub and/or GitLab on a daily basis.
-  - JavaScript - pure JS is great but we also use a lot of Next.js nowadays. You can have a look at our PortalJS framework here - https://github.com/datopian/portaljs
+  - JavaScript - pure JS is great but we also use a lot of Next.js nowadays. You can have a look at our frontend framework here - https://github.com/datopian/datahub and also our MarkdownDB library here https://github.com/datopian/markdowndb
 - Bonus if you know any of these:
-  - CSS - in particular TailwindCSS would be amazing.
-  - Design and prototyping skills - we would require you to work on Figma to create prototypes, mockups etc.
+  - CSS - in particular TailwindCSS would be amazing. It's also beneficial if you're familiar with components libraries such as:
+    - https://heroicons.com/
+    - https://ui.shadcn.com/
+    - https://tailwindui.com/
+    - others.
+  - Design and prototyping skills - we would require you to work with Figma where our designer creates mockups.
   - Any backend skills are always great, e.g., we use Python.
   - Familiarity with containerization using Docker.
 
