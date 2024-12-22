@@ -13,6 +13,8 @@ Engineering positions:
 
 Other positions:
 
+- Business Development:
+  - Customer Relationship Manager & Lead Generator - [/bizdev/customer-relationship-manager-and-lead-generator](bizdev/customer-relationship-mamager-and-lead-generator.md)
 - Delivery Team:
   - Product Owner - [/delivery-management/product-owner](delivery-management/product-owner.md)
   - Scrum Master - [/delivery-management/scrum-master](delivery-management/scrum-master.md)
