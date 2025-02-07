@@ -10,6 +10,7 @@ Engineering positions:
 - Data Engineer - [/engineering/data-engineer.md](/engineering/data-engineer.md)
 - Frontend engineer with design skills - [/engineering/frontend](/engineering/frontend.md)
 - Site Reliability Engineer - [/engineering/sre](/engineering/sre.md)
+- Full Stack Engineer - [/engineering/fullstack](/engineering/fullstack.md)
 
 Other positions:
 
