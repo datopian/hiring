@@ -53,7 +53,7 @@ Your responsibilities would include:
 
 To assess your application, we would like you to complete the following assignment:
 
-1. Go through the getting started guide here - https://tech.datopian.com/docs/dms/ckan/getting-started
+1. Go through the getting started guide here - [getting started with CKAN](https://tech.datopian.com/dms/ckan/getting-started).
 2. We expect you to complete [play around](https://tech.datopian.com/dms/ckan/play-around), [installing extensions](https://tech.datopian.com/dms/ckan/install-extension) and [creating your own extension](https://tech.datopian.com/dms/ckan/create-extension) guides.
 3. Once completed, create a short (2-3 minutes) Loom video about your new CKAN extension explaining what you have created.
 4. Please, send us an email with your details to jobs@datopian.com and the link to your Loom video should be shared with your details. Indicate the role you are applying to and explain why do you think you might be a good fit.
